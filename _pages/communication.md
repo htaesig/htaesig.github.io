@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
+permalink: /communication/
+title: Communication
 ---
+
 
 <div class="posts">
   {% for post in paginator.posts %}
