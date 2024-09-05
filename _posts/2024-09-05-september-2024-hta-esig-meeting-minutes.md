@@ -1,7 +1,8 @@
 ---
 layout: post
 title: September 2024 HTA ESIG meeting - minutes 
-categories: [Minutes,SIG meetings]
+categories: [SIG meetings]
+author: Anders
 ---
 
 ## Agenda 
@@ -11,8 +12,6 @@ categories: [Minutes,SIG meetings]
 3. EU HTA – info sharing and updates
 4. Events and conferences
 5. AOB
-
-
 
 ## 1. Admin updates
 
