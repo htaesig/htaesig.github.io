@@ -45,17 +45,21 @@ Below is a list of the current subteams.
 <table>
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Price</th>
-            <th>Description</th>
+            <th>Subteam</th>
+            <th>Related to objective</th>
+            <th>Lead</th>
+            <th>Members</th>
+            <th>Details</th>
         </tr>
     </thead>
     <tbody>
         {% for item in site.data.subteams %}
         <tr>
             <td>{{ item.name }}</td>
-            <td>{{ item.price }}</td>
-            <td>{{ item.description }}</td>
+            <td>{{ item.sig_objective }}</td>
+            <td>{{ item.lead }}</td>
+            <td>{{ item.members }}</td>
+            <td>{{ item.details }}</td>
         </tr>
         {% endfor %}
     </tbody>
