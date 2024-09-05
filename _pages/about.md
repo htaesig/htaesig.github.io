@@ -4,26 +4,59 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+The HTA ESIG is sponsored by [PSI (Statisticians in the Pharmaceutical Industry)](https://www.psiweb.org/) and [EFSPI (European Federation of Statisticians in the Pharmaceutical Industry)](https://www.efspi.org/).
 
-This is  plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## Objectives
 
-## Features
+1. **Empower HTA statisticians, through a platform for sharing and co-developing best practices.**<br/>
+*Shape a platform where HTA statisticians can exchange insights, share experiences, and collaboratively develop best practices, enhancing their role and fostering leadership*
+2. **Foster interdisciplinary and intradisciplinary scientific dialogue on HTA statistical matters.**<br/>
+ *Foster discussions within the statistician community and across other disciplines to deepen the understanding of HTA statistical matters and foster collaboration.*
+3. **Utilize our collective HTA statistical expertise to provide influential input to policy-making.**<br/>
+ *Harness our collective skills and experience to deliver expert advice to influence HTA and regulatory policy-making.*
+4. **Promote education and awareness about the importance and applications of HTA statistics.**<br/>
+    *Broaden awareness of HTA statistics by leading educational initiatives such as webinars or short courses, highlighting the role and significance of HTA statistics.*
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## 2024 targets
+- Related to objective #1
+  - Deepen SIG dialogue around EU HTA readiness & strategic role of statisticians
+- Related to objective #2
+  - Review and comment on methods and procedural guidelines for HTA
+  - Strengthen Social Media communication on HTA statistics/role of HTA statisticians
+  - Successful ½d HTA addition to the EFSPI Regulatory Workshop 2024
+- Related to objective #3
+  - High SIG visibility at PSI 2024 and ISPOR EU 
+  - Publish 3 position papers pertaining to EU HTA 
+  - Strengthen relationship with ISPOR Statistical Methods SIG (Martin) & visibility of technical subgroups
+  - Update HTA handbook
+- Related to objective #4
+  - Training course to be delivered 2025
+  - ITC webinar + PICOs follow-up webinar
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Chair
+Lara Wolfson and Anders Gorst-Rasmussen (co-chairs)
+
+## Subteams
+
+A key part of the HTA ESIG are the various subteams where members collaborate and discuss more specialized topics. 
+
+Below is a list of the current subteams.
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in site.data.table-data %}
+        <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.price }}</td>
+            <td>{{ item.description }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
