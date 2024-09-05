@@ -1,6 +1,15 @@
-- name: "Item 1"
-  price: "$1.00"
-  description: "Description 1"
-- name: "Item 2"
-  price: "$2.00"
-  description: "Description 2"
+- name: White Paper (1) - Call for statisticians
+  lead: Lara
+  sig_objective: 2
+  members: Anders, Orlando
+  details: 
+- name: White Paper (2) - multiplicity
+  lead: Anders
+  sig_objective: 2
+  members: Lara, Michael Sch, Min-Hua, Katrin, Antonio, Orlando, Lovisa, Sandro
+  details: xyz
+- name: White Paper (3) - estimands
+  lead: Antonio
+  sig_objective: 2
+  members: Orlando
+  details: abc
