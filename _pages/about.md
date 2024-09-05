@@ -51,7 +51,7 @@ Below is a list of the current subteams.
         </tr>
     </thead>
     <tbody>
-        {% for item in site.data.table-data %}
+        {% for item in site.data.subteams %}
         <tr>
             <td>{{ item.name }}</td>
             <td>{{ item.price }}</td>
