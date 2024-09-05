@@ -1,7 +1,8 @@
 ---
 layout: post
 title: September 2024 HTA ESIG meeting - agenda 
-categories: [Agenda, SIG meetings]
+categories: [SIG meetings]
+author: Anders & Lara
 ---
 
 ## Agenda 
