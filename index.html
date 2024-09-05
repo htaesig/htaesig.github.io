@@ -1,49 +1,28 @@
 ---
 layout: default
 ---
+<p>The  Health Technology Assessment (HTA) European Special Interest Group, sponsored by <a href="https://www.psiweb.org/">PSI</a> and <a href="https://efspi.org/">EFSPI</a>, is a fast-growing community of around 100 professionals working in HTA statistics. 
+  Our SIG provides a platform for connecting people across companies and geographies to discuss industry developments, organize events, and advance scientific knowledge and best practices in HTA statistics.</p>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<p>We meet  monthly to:</p>
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<ul>
+<li>Share recent developments in HTA statistics</li>
+<li>Discuss how to advance the <a href="https://htaesig.github.io/about/">objectives of the HTA SIG</a></li>
+<li> Collaborate on specialized HTA statistics topics through our <a href="https://htaesig.github.io/subteams/">subteams</a></li>
+</ul>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<h2>What is HTA statistics?</h2>
+<p>HTA statistics is the application of statistics to Health Technology Assessment: the scientific process that helps authorities decide medical technologies and treatments are effective and worth paying for. </p>
 
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
+<p>HTA statisticians are the "swiss army knives" among pharma statisticians - they handle a broad range of topics, from analysis of clinical trial data and (network) meta analysis to health economic modelling. </p>
+<p> With the evolving policy landscape, in particular <a href="https://health.ec.europa.eu/health-technology-assessment_en">pan-European HTA</a>, there's a growing need for 
+  statisticians who can successfully navigate the unique context of HTA. </p>
 
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
 
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-  {% endif %}
-</div>
+<h2>Become a member!</h2>
+<p>Are you working in HTA and are a member of <a href="https://www.psiweb.org/">PSI</a> or one of the national organizations under <a href="https://efspi.org/">EFSPI</a>? Then we'd love for you to join the HTA SIG!</p>
+
+<p>We welcome all new SIG members - whether you want to actively contribute through one of our subteams or prefer to participate more passively. </p>
+
+<p> Request your membership <a href="pending">here</a></p>
