@@ -1,3 +1,8 @@
+- name: PSI 2025 brainstorming group
+  lead: Milana
+  sig_objective: 2
+  members: Michael S, Claudia, Arthur,  Claire,Katrin
+  details: Brainstorm on sessions and content for the HTA ESIG propose for next year's PSI conference
 - name: White Paper (1) - Call for statisticians
   lead: Lara
   sig_objective: 2
@@ -7,9 +12,34 @@
   lead: Anders
   sig_objective: 2
   members: Lara, Michael Sch, Min-Hua, Katrin, Antonio, Orlando, Lovisa, Sandro
-  details: xyz
+  details: 
 - name: White Paper (3) - estimands
   lead: Antonio
   sig_objective: 2
   members: Orlando
-  details: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+  details: 
+- name: HTA open source
+  lead: Anders
+  sig_objective: 2,3
+  members: Rossella, Cedric, Nermina, Amelie, Ian, Iain, Anders
+  details: 
+- name: European Commission EU HTA Stakeholder Network
+  lead: Anders
+  sig_objective: 3
+  members: Christoph
+  details: Representing EFSPI in the EC EU HTA stakeholder network
+- name: Treatment switching
+  lead: Claire
+  sig_objective: 2,4
+  members: Orlando, Miguel, Emmanuel, Arthur, Eva
+  details: 
+- name: HTA training
+  lead: TBD
+  sig_objective: 4
+  members: Ash
+  details: Crowd-source high-quality training material 
+- name: HTA Handbook
+  lead: Ash
+  sig_objective: 4
+  members: Arthur, Ian, Orland, Shahrul
+  details: 
