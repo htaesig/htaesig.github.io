@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2024 HTA ESIG meeting - minutes 
-categories: [Minutes,Meetings]
+categories: [Minutes,SIG meetings]
 ---
 
 ## Agenda 
