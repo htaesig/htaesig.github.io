@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-The HTA ESIG is sponsored by [PSI (Statisticians in the Pharmaceutical Industry)](https://www.psiweb.org/) and [EFSPI (European Federation of Statisticians in the Pharmaceutical Industry)](https://www.efspi.org/).
+HTA statistics is the application of statistics to Health Technology Assessment (HTA): the scientific process that helps authorities decide medical technologies and treatments are effective and worth paying for. HTA statisticians are the "swiss army knives" among pharma statisticians - they handle a broad range of topics, from analysis of clinical trial data and (network) meta analysis to health economic modelling. 
 
-## Objectives
+ With the evolving policy landscape, in particular <a href="https://health.ec.europa.eu/health-technology-assessment_en">pan-European HTA</a>, there's a growing need for 
+  statisticians who can navigate the unique context of HTA. The HTA European Special Interest Group, sponsored by [PSI (Statisticians in the Pharmaceutical Industry)](https://www.psiweb.org/) and [EFSPI (European Federation of Statisticians in the Pharmaceutical Industry)](https://www.efspi.org/), connects professionals across companies and geographies to discuss industry developments, organize events, and advance scientific knowledge and best practices in HTA statistics
+
+## Objectives 
 
 1. **Empower HTA statisticians, through a platform for sharing and co-developing best practices.**<br/>
 *Shape a platform where HTA statisticians can exchange insights, share experiences, and collaboratively develop best practices, enhancing their role and fostering leadership*
@@ -17,7 +20,7 @@ The HTA ESIG is sponsored by [PSI (Statisticians in the Pharmaceutical Industry)
 4. **Promote education and awareness about the importance and applications of HTA statistics.**<br/>
     *Broaden awareness of HTA statistics by leading educational initiatives such as webinars or short courses, highlighting the role and significance of HTA statistics.*
 
-## 2024 targets
+## 2024 HTA ESIG targets
 - Related to objective #1
   - Deepen SIG dialogue around EU HTA readiness & strategic role of statisticians
 - Related to objective #2
