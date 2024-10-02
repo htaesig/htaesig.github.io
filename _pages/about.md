@@ -37,4 +37,4 @@ HTA statistics is the application of statistics to Health Technology Assessment 
   - ITC webinar + PICOs follow-up webinar
 
 ## Chair
-Lara Wolfson and Anders Gorst-Rasmussen (co-chairs)
+Lara Wolfson and Anders Gorst-Rasmussen (co-chairs) - <a href="mailto:htasig@psiweb.org">contact</a>
