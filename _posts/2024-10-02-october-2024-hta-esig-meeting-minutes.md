@@ -6,10 +6,8 @@ author: Anders
 ---
 
 
-# HTA ESIG  meeting
-#### 01-Oct-2024 (12:30-13:30 CET)
-
-
+## Date/time
+01-October-2024 12:30-13:30 CET
 
 ## Agenda 
 
