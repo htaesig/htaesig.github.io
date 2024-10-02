@@ -44,6 +44,7 @@
   sig_objective: 4
   members: Ash, Lena
   details: Crowd-source high-quality training material 
+  active: No
 - name: HTA Handbook update
   lead: Ash
   sig_objective: 4
