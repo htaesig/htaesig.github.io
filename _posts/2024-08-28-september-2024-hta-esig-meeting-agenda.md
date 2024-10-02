@@ -5,6 +5,9 @@ categories: [SIG meetings]
 author: Anders & Lara
 ---
 
+## Date/time
+03-Sep-2024 11:00-12:00 CET
+
 ## Agenda 
 
 1. Admin updates
