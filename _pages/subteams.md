@@ -16,7 +16,7 @@ Please note, you must first be a member of the HTA ESIG to join one of the sub-t
     <thead>
         <tr>
             <th>Subteam</th>
-            <th>Related to objective</th>
+            <th>Related to <a href=/about">objectives</a></th>
             <th>Lead</th>
             <th>Members</th>
             <th>Details</th>
