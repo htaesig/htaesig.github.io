@@ -166,7 +166,7 @@ author: Anders
     - PICO scoping in JCA process vs estimands, suitable choice on e.g. intercurrent events left to drug developer? JCA guidance overview.  
     - Estimands and COAs – use in CEMs vs typical modeling, lack of analytical guidance. 
   - 4. ITC advanced topics?
-- Discussion around topics - #1 may lack "news" by summer next year, #3 very interesting but hardest to pull off - agreement to with #2
+- Discussion around topics - *Update on EU HTA* may lack "news" by summer next year, *Estimands in HTA* very interesting but hardest to pull off - agreement to with *Use of non-RCT data in HTA*
 - Min-Hua also offered to help shape a session
 - <mark>ACTION: subteam/Min-Hua to continue elaborating on idea #3 ahead of 06-Nov ESIG meeting</mark>
 
