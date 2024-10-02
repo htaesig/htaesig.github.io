@@ -7,7 +7,7 @@ permalink: /subteams/
 
 A key part of the HTA ESIG are the various subteams where members discuss and collaborate on more specialized topics. 
 
-Are you interested in joining one of the sub-teams? Either reach out to the lead directly or send an email to htasig@psiweb.org and we will put you in touch with the lead.
+Are you interested in joining one of the sub-teams? Either reach out to the lead directly or send an email to <a href="mailto:htasig@psiweb.org">htasig@psiweb.org</a> and we will put you in touch with the lead.
 
 Please note, you must first be a member of the HTA ESIG to join one of the sub-teams.
 
