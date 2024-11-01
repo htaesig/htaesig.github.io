@@ -41,7 +41,7 @@ Wembley Stadium, London from Sunday 1st – Wednesday 4th June 2025. Deadline fo
 ### R Consortium HTA WG kickoff
 We encourage ESIG members to join this initiative - or nudge others in your organization who might be relevant contributors.
 
-- Announcement about the working group: https://r-consortium.org/posts/announcing-health-technology-assessment-HTA-working-group/
-- Minutes from kick-off meeting + link to recordings: https://github.com/RConsortium/HTA-wg/blob/main/Minutes/2024-10-31-HTA-Minutes.md
+- Announcement about the working group: [here](https://r-consortium.org/posts/announcing-health-technology-assessment-HTA-working-group/)
+- Minutes from kick-off meeting + link to recordings: [here](https://github.com/RConsortium/HTA-wg/blob/main/Minutes/2024-10-31-HTA-Minutes.md)
 
 
