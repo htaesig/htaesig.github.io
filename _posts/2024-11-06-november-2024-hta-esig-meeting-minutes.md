@@ -95,6 +95,7 @@ author: Anders
   - Milana: what about communicating ()uncertainty in) cost-effectiveness models to non-experts, even more difficult? Lara: agreed, possibly some coverage from HTAB speaker, alternatively pick up in panel part 
 - _Extrapolation using external data_ (parked for PSI 2025 but discuss for e.g. ISCB or webinar, Arthur)
 - Contributed submissions by SIG members?
+- <mark>ACTION: Katrin/Mona + Min-Hua proceed with session abstracts for sessions on non-randomized data/structured elicitation </mark>
 
 
 ## 4. Events and conferences
