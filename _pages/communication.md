@@ -5,7 +5,7 @@ title: Meetings
 ---
 
 ## Calendar 
-<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FZurich&showPrint=0&showTitle=0&showDate=0&showTabs=0&mode=AGENDA&src=NzYyNGQ0YWRhNDE2YjI3YzdmYmE2YTcxMmI4OWNiZjY3OTdiZGJkNzc4NzgyNjVlYmNhNTEwOThhYThhNzk0NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FZurich&showPrint=0&showTitle=0&showDate=0&mode=AGENDA&src=NzYyNGQ0YWRhNDE2YjI3YzdmYmE2YTcxMmI4OWNiZjY3OTdiZGJkNzc4NzgyNjVlYmNhNTEwOThhYThhNzk0NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5" style="border-width:0" width="1200" height="400" frameborder="0" scrolling="no"></iframe>
 
 ## Agendas and minutes
 
