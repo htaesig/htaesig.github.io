@@ -31,3 +31,6 @@ title: Communication
     <h3>Oldest Posts</h3>
   </section>
 </div>
+
+## Calendar
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FZurich&showPrint=0&src=cHNpLmh0YS5zaWdAZ21haWwuY29t&src=NzYyNGQ0YWRhNDE2YjI3YzdmYmE2YTcxMmI4OWNiZjY3OTdiZGJkNzc4NzgyNjVlYmNhNTEwOThhYThhNzk0NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4tZ2IuY2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4tZ2IudWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23A79B8E&color=%23039BE5&color=%234285F4&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
