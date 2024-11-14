@@ -8,7 +8,7 @@ Rendered site available [here](https://htaesig.github.io/).
 - Landing page: ``index.html`` 
 - Subpages: ``_pages/*.md``
 
-## Adding new posts (``Communications``)
+## Adding new posts (``Meetings``)
 
 1. Go to the ``_posts`` folder
 2. Select ``Add File`` / ``Create new file`` in top right corner
