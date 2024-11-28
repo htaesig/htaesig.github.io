@@ -21,6 +21,7 @@ author: Anders & Lara
     - EU HTA Stakeholder Network 29-Nov meeting update (Anders)
     - New guidance documents (all)
 4.	Events and conferences (5min)
+    - Webinar plans 2025 (need to input to PSI/EFSPI by year-end)
     - PSI 2025 HTA townhall session outline (Anders/Lara)
 5.	AOB
 
