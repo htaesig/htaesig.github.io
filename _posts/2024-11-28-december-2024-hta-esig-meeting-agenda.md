@@ -21,11 +21,14 @@ author: Anders & Lara
     - EU HTA Stakeholder Network 29-Nov meeting update (Anders)
     - New guidance documents (all)
 4.	Events and conferences (5min)
-    - Webinar plans 2025 (need to input to PSI/EFSPI by year-end)
+    - Webinars 2025 (need to input to PSI/EFSPI by year-end)
     - PSI 2025 HTA townhall session outline (Anders/Lara)
 5.	AOB
 
 ## Updates from chairs
+
+### Webinars 2025
+Please consider ideas/topics for 2025 webinars. We need to input ESIG wishes to PSI/EFSPI before year-end.
 
 ### 2025 SIG targets + subteams going forward
 At the January 2025 ESIG meeting (date pending), we'll align on 2025 targets for the HTA ESIG. We encourage you to start thinking about what would be good targets, including ideas and timing for webinars. Find inspiration in our [2024 targets](https://htaesig.github.io/about/)
