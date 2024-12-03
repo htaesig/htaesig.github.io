@@ -1,6 +1,6 @@
 ---
 layout: post
-title: November 2024 HTA ESIG meeting - minutes 
+title: December 2024 HTA ESIG meeting - minutes 
 categories: [SIG meetings]
 author: Anders
 ---
@@ -51,21 +51,19 @@ author: Anders
 
 ## 2. Member/subteam/guest driven topic (1/2)
 
-#### Report on October multistakeholder workshop (Tina Wang - 20min incl Q/A)
+### Report on October multistakeholder workshop (Tina Wang - 20min incl Q/A)
 
+- [Click here](/downloads/2024-12-03-december-2024-hta-esig-meeting-tina-wang-presentation.pdf) to download Tina's presentation 
 
 
 ## 2. Member/subteam/guest driven topic (2/2)
 
-#### Extrapolation topic for 2025 conference/webinar (Arthur - 10min)
+### Extrapolation topic for 2025 conference/webinar (Arthur - 10min)
 
 - Discussion that this topic would be relevant for both a webinar and potentially ISPOR collab
 - Arthur and Min Hua will investigate potential for ISPOR session 2025
 - <mark>ACTION: Arthur to share with Anders suggestion for title/topic/rationale to feed to PSI/EFSPI in webinar requests</mark>
 
-
-
-### Time-to-event extrapolations using external informations
 
 
 #### Time-to-event extrapolations leveraging RWD
@@ -127,7 +125,6 @@ the use of external data
 - 37 applications for new call, 26 additional members accepted
 - EFSPI still only more statistical/technical learned society
 
-### EU HTA Stakeholder Network Meeting 29-Nov (Anders)
 
 #### Key input/learnings
 
@@ -143,8 +140,6 @@ the use of external data
 - JCA advice from procedural/methods SG:
   - --> provide justification and rationale; consider HTA questions **early**
 
-
-### EU HTA Stakeholder Network Meeting 29-Nov (Anders)
 
 #### EFSPI presentation "Open-source statistical code and its potential for EU HTA JCA"
 
@@ -187,7 +182,7 @@ https://health.ec.europa.eu/health-technology-assessment_en
 
 
 
-### 4. Events and conferences (10min)
+## 4. Events and conferences (10min)
 
 - EFSPI Regulatory Statistics Workshop 2025 (10-year anniversary workshop)
   - 2½ days but **no dedicated ½d HTA** (HTA integrated into main workshop)
