@@ -133,7 +133,6 @@ the use of external data
 - Adjustments when and how? Encouraged transparency around "what works", what is used in local decision making
   - -->On an ongoing basis, requirements are comprehensive to limit need for extra local work, need to understand if too comprehensive
 - Capacity + rolling calls JSC? JSC as an integral part of EU HTA.
-
   - --> Focus has been on JCA for now
   - --> Increasing capacity is a priority, hope that more frequent calls (quarterly?)
 
@@ -159,7 +158,7 @@ Discussion SIG meeting
 
 - Ursula: important to have HTAB contact for the R Consortium HTA WG, need to align on what we are solving. Anders: agree, will see if we can leverage the first contact via SN more in 2025.
 
-### New EU HTA guidance and documents (~350 pages)
+#### New EU HTA guidance and documents (~350 pages)
 
 Shared w/Stakeholder Network 28-Nov (confidentially) - expect publication shortly
 
@@ -189,7 +188,7 @@ https://health.ec.europa.eu/health-technology-assessment_en
   - One scientific subcommittee (no separate HTA Scientific Subcomittee)
   - Deadline for applying 18-Dechttps://www.linkedin.com/posts/efspi_do-you-want-to-contribute-to-the-scientific-activity-7267839774026047489-h3Fm
 - PSI 2025 HTA townhall: communicating statistics and uncertainty in HTA
-  - Science journalist (Maricarmen Climent/[Sense About Science](https://senseaboutscience.org/team/maricarmen-climent/); assessor/HTA perspective (Nick Lattimer/USHEFF); patient perspective (Valentina Strammiello/EPF)
+  - Science journalist (Maricarmen Climent/[Sense About Science](https://senseaboutscience.org/team/maricarmen-climent/)); assessor/HTA perspective (Nick Lattimer/USHEFF); patient perspective (Valentina Strammiello/EPF)
 - Webinars
   - Topics needed during December to maximize chances of getting a slot! 
   - Discussion at meeting: Arthur extrapolation topic
@@ -197,4 +196,4 @@ https://health.ec.europa.eu/health-technology-assessment_en
 ## 5. AOB
 
 - Anders reminded everybody that at the January meeting, we will be discussing 2025 targets for the SIG - please revisit the [2024 targets](https://htaesig.github.io/about/) and think about what would be relevant for the new year
-- Thanks for a great 2024 and looking forward to more exchange and cross-company collaboration next year!
+- Thanks for a great 2024 and looking forward to more great exchanges and cross-company collaboration next year!
