@@ -54,8 +54,6 @@ _Jonas Hägströmm presentation postponed_
 
 ## SIG objectives
 
-https://htaesig.github.io/about/
-
 
 1. **Empower HTA statisticians, through a platform for sharing and co-developing best practices.**<br/>
    _Shape a platform where HTA statisticians can exchange insights, share experiences, and collaboratively develop best practices, enhancing their role and fostering leadership_
