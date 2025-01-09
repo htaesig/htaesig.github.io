@@ -1,9 +1,9 @@
-----
+---
 layout: post
 title: January 2025 HTA ESIG meeting - minutes 
 categories: [SIG meetings]
 author: Anders
-----
+---
 
 ## Date/time
 09-January-2025 13:00-14:00 CET
