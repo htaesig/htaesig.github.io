@@ -9,6 +9,7 @@
   sig_objective: 2
   members: Lara, Daniel, Michael Sch, Katrin, Anders, Sandro
   details: 
+  active: Yes
 - name: White Paper (3) - estimands
   lead: Antonio/Kate?
   sig_objective: 2
@@ -48,6 +49,6 @@
 - name: PRO
   lead: Sory
   sig_objective: 2
-  members: Michael, Alexandra, Orlando, Emmanuel
+  members: Michael Sch, Alexandra, Orlando, Emmanuel
   details: 
   active: Yes
