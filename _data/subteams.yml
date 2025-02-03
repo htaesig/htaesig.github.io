@@ -16,9 +16,9 @@
   members: Lara, Michael Sch, Min-Hua, Katrin, Antonio, Orlando, Lovisa, Sandro
   details: 
 - name: White Paper (3) - estimands
-  lead: Antonio
+  lead: Antonio/Kate?
   sig_objective: 2
-  members: Orlando, Kate
+  members: Orlando, Min-Hua, Sarah, Adrian
   details: 
   active: Yes
 - name: HTA open source
@@ -40,14 +40,20 @@
   details: 
   active: Yes
 - name: HTA training
-  lead: TBD
+  lead: Anna
   sig_objective: 4
-  members: Ash, Lena
+  members: Ash, Lena, Antonia
   details: Crowd-source high-quality training material 
-  active: No
+  active: Yes
 - name: HTA Handbook update
   lead: Ash
   sig_objective: 4
   members: Arthur, Ian, Orland, Shahrul
+  details: 
+  active: Yes
+- name: PRO
+  lead: Sory
+  sig_objective: 2
+  members: Sory, Michael, Alexandra, Orlando, Emmanuel
   details: 
   active: Yes
