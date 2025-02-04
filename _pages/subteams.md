@@ -19,7 +19,6 @@ Please note, you must first be a member of the HTA ESIG to join one of the sub-t
             <th>Lead</th>
             <th>Members</th>
             <th>Details</th>
-            <th>Active?</th>
         </tr>
     </thead>
     <tbody>
@@ -30,7 +29,6 @@ Please note, you must first be a member of the HTA ESIG to join one of the sub-t
             <td>{{ item.lead }}</td>
             <td>{{ item.members }}</td>
             <td>{{ item.details }}</td>
-            <td>{{ item.active }}</td>
         </tr>
         {% endfor %}
     </tbody>
