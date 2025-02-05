@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January 2025 HTA ESIG meeting - minutes 
+title: February 2025 HTA ESIG meeting - minutes 
 categories: [SIG meetings]
 author: Anders
 ---
@@ -35,7 +35,7 @@ author: Anders
 - HTA SIG perspectives - how can we operationalize statistically?
   - Subteam to put together overview: reach out to Lara
   - <mark>Action Lara: invite author(s) of whitepaper for SIG presentation</mark>
-  - PSI webinar? Or both (SIG presentation/meeting, then webinar)
+  - PSI webinar? Or both (we will target a local SIG presentation first - then revisit the webinar idea)
 
 ### HTA ESIG active subteam overview (Milana)
 
@@ -46,7 +46,7 @@ author: Anders
 #### How?
 - Asked for updates from the subteams that we *think* are active
 - If we have missed a subteam, let us know!
-- https://htaesig.github.io/subteams/
+- Subteam overview is [here](https://htaesig.github.io/subteams/)
 
 ### Next steps
 - <mark>Action Milana: finalize the current subteam overview</mark>
@@ -65,7 +65,7 @@ author: Anders
 ## 4. 2025 HTA ESIG targets
 
 ### 2024 targets - which to carry over/update/delete?
-- https://htaesig.github.io/about/
+- Targets from 2024 are [here](https://htaesig.github.io/about/)
 
 - Related to SIG objective #1:
   - ✔ Deepen SIG dialogue around EU HTA readiness & strategic role of statisticians
@@ -95,7 +95,8 @@ author: Anders
 - Arthur: webinars is important - also, consider if subteams could provide a target/focus?
 
 ### Next steps
-- There was limited feedback from the attendees about 2025 targets so we will try a more asynchronous approach with a survey
+- There was limited feedback from the meeting attendees about which 2024 targets to carry over/update/delete
+  - We will try a more asynchronous approach with a survey
 - <mark>Action Anders: share survey with full ESIG</mark>
 - <mark>Action all ESIG members: respond to survey or provide considerations directly to Anders/Lara</mark>
 
@@ -105,4 +106,4 @@ author: Anders
 
 ## 6.	AOB
 
-- You can find the overview of 2025 events of relevance to HTA statisticians in the (January meeting minutes](https://htaesig.github.io/january-2025-hta-esig-meeting-minutes/)
+- You can find the current overview of 2025 events of relevance to HTA statisticians in the [AOB of the January meeting minutes](https://htaesig.github.io/january-2025-hta-esig-meeting-minutes/)
