@@ -15,7 +15,7 @@ At the February meeting, we decided to conduct a short survey to gather input fr
 
 ## Survey results 
 
-The survey received 29 responses. The box plots below show the distribution of rankings for each proposed activity, where a higher rank indicates greater importance.
+The survey received 29 responses. The box plots below show the distribution of rankings for each proposed activity, where a lower rank indicates greater importance.
 
 ![Survey results](/downloads/2025-02-24-esig-targets-survey-results.png)
 
