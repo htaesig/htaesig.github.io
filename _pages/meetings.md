@@ -1,10 +1,8 @@
 ---
 layout: page
-permalink: /meetings/
-title: Meetings
+permalink: /comms/
+title: Communications
 ---
-
-## Agendas and minutes
 
 <div id="archives">
   <section id="archive">
