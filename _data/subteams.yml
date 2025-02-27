@@ -4,11 +4,11 @@
   members: Lara, Daniel, Michael Sch, Katrin, Anders, Sandro
   details: 
   active: Yes
-- name: White Paper (3) - estimands
+- name: White Paper (3) - alternatives to MAIC
   lead: Antonio/Kate?
   sig_objective: 2
   members: Orlando, Min-Hua, Sarah, Adrian
-  details: 
+  details: Implementations of “alternatives to MAIC” in the anchored and unanchored scenarios (two potential white papers), focussing on the time-to-event setting.
   active: Yes
 - name: HTA open source
   lead: Arthur and Nermina
@@ -26,7 +26,7 @@
   lead: Claire
   sig_objective: 2 and 4
   members: Orlando, Miguel, Emmanuel, Arthur, Eva
-  details: 
+  details: Jan2025 focus: publication on the treatment switching topic to Pharm stats. 
   active: Yes
 - name: HTA training
   lead: Anna
@@ -44,11 +44,11 @@
   lead: Sory
   sig_objective: 2
   members: Michael Sch, Alexandra, Orlando, Emmanuel
-  details: 
+  details: Jan2025 focus: PSI contribution "Using generative AI methods for scoping methodological HTA requirements: a case study on PROs in context of HTA in EU."
   active: Yes
 - name: German HTA
   lead: Michael Sch.
   sig_objective: 2
   members: Claudia, Christoph, Alexandra, Thomas Bartmus, Sarah, Katrin, Kirsten, Ursula,  Christine, Marcus, Achim, Stefan, Angela
-  details: 
+  details: Subteam serves as the link between EFSPI HTA SIG and the German manufacturers association (vfa) - BIOS working group. Jan2025 focus: update of White Paperon German Benefit Assessment considering current methodological requirements based on IQWiGs methods paper Version 7.  
   active: Yes
