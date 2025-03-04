@@ -50,18 +50,19 @@ author: Anders
 ### Discussion
 - Milana: revise wording on 1 to better reflect the ex-EU focus
   - Michael S/Shahrul: other areas of interest, e.g. Commonwealth HTA, nordic collaboration, south america etc
-  - Anders/Lara: will look into ways to not let EU HTA overshadow, however, discussions about less well-known HTA developments are dependent on people driving from the SIG
-    - <mark>ACTION ALL </mark>: Reach to Anders and Lara if you  
+  - Anders/Lara: will look into ways to not let EU HTA overshadow, however, discussions about less well-known HTA developments are dependent on people driving from the SIG 
+    - <mark>ACTION ALL </mark>: Reach to Anders and Lara if you have an ex-EU topic that you want to take up in the SIG
 - Michael: focus on connecting to other SIGs, e.g. regulatory SIGs?
-  - Anders/Lara: also a very relevant endevour that we would welcome if member(s) commit to driving it.
-- Ursula: PSI presence (could we have subject-matter focused meetup 1-1½h - Michael S echoed)? EFSPI regulatory stats workshop, anyone from the SIG involved in scientific planning
-  - Anders: definitely could do PSI meetup, somebody would need to drive. EFSPI regulatory stats workshop - we informed the SIG back when there was a call for members of the scientific committee, unaware if anyone has picked up
-  - Ursula could maybe help drive PSI meetup (focusing on e.g. discussing/disseminating results from her survey about HTA Ops)
+  - Anders/Lara: very relevant endevour that we would welcome - but again, need member(s) for driving it
+- Ursula: PSI presence (could we have subject-matter focused meetup 1-1½h; Michael S echoed)?
+  - Anders: definitely could do PSI meetup. Ursula was potentially willing to drive PSI meetup (provided focus on e.g. discussing/disseminating results from her survey about HTA Ops)
+- Ursula:  EFSPI regulatory stats workshop, anyone from the SIG involved in scientific planning?
+  - Anders: at December 2024 SIG meeting, [we encouraged SIG members to apply](https://htaesig.github.io/december-2024-hta-esig-meeting-minutes/) for the scientific committee (but we don't know if anybody did)
 
 ### Conclusion
 
 - The targets try to strike the balance between providing direction, but also accounting for the limited total bandwidth of the SIG (so that we have a chance of reaching the targets)
-  - If there's something missing that you are willing to also drive, we very much encourage you to reach out
+  - <mark>Action all:</mark> If there's something missing that you are willing to also drive, we very much encourage you to reach out to Lara/Anders
 - There will be a bit of wordsmithing to the draft above and the targets will go on the SIG webpage
 
 ## 4. Member/subteam/guest driven topic (15min)
