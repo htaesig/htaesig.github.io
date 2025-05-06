@@ -15,7 +15,7 @@ author: Anders
    - SIG leadership model (10min Anders/Arthur/Katrin )
    - IQWiG methods paper Version 8.0 (15min/Christine)
 3. EU HTA – info sharing and updates (20min)
-   - Best practices PICO addressability (20min/MSD)
+   - Best practices PICO addressability (20min/Lara/Dave)
 4. Events and conferences (10min)
    - PSI 2025 (10min/PSI 2025 subteam)
 5. AOB (5min)
@@ -24,7 +24,7 @@ author: Anders
 
 ## 1. Admin updates 
 
-- No admin updates due to busy agenda
+- Skipped  point due to busy agenda
 
 ## 2. Member/subteam/guest driven topic
 
@@ -68,10 +68,10 @@ author: Anders
 
 ## 3. EU HTA – info sharing and updates (20min)
 
-- Lara introduced the next topic and speaker (Dave from MSD), framing the opportunity to HTA ESIG and EFSPI drive a broader discussion around how to ensure that we address PICOs with small-n P's in a statistically and scientifically meaningful way
+- Lara introduced the next topic, framing the opportunity to HTA ESIG and EFSPI drive a broader discussion around how to ensure that we address PICOs with small-n P's in a statistically and scientifically meaningful way
 - Dave Gelb shared MSD efforts on the topic *Small PICOs: How should they be handled within the EU HTA context*
   - Dave and Larry Leon from MSD have come up with a flowchart-type approach to deciding the extent of analysis appropriate for a given PICO
-  - The branching in the flowchart accounts for quantitative assessment of when results are statistically meaningful
+  - Branching in the flowchart accounts for quantitative/simulation assessment of when results are statistically meaningful
   - Discussion  following Dave's presentation:
     - Assessors will still need a place to "hang their hat" if we're not providing statistics, what should that be?
     - To which extent are PICO addressability flowchart TA-dependent? Trial-size dependent? Etc
@@ -86,17 +86,17 @@ author: Anders
 - PSI 2025, London, 8-11 June
   - Who will be there?
     - Michael S, Ursula, Grammati, Katrin, Lena S, Jens, Anders, Lara, Claire put their name in the chat
-    - <mark>Action all:</mark> others coming to PSI/anyone that we missed? Let Anders know. 
-    - <mark>Action Orlando:</mark> setup a Whatsapp group for HTA ESIG/PSI 2025
+      - <mark>Action all:</mark> others coming to PSI/anyone that we missed? Let Anders know. 
+  - <mark>Action Orlando:</mark> setup a Whatsapp group for HTA ESIG/PSI 2025
 - Presentations (Anders will put an overview on the SIG site)
   -  HTA SIG engagement Tuesday lunch
   -  Parallel session: _Evidence synthesis. Squaring the circle: bridging innovation with application_ (Anders + Min-Hua + others)
   -  SIG session: _SEE-ing the Future: Empowering Health Decisions through Structured Expert Elicitation_ (collab HTA SIG/historical data SIG - Min-Hua + others)
   -  HTA townhall: _No easy answers: communicating about statistics and uncertainty in Health Technology Assessment_ (Maricarmen Climent + Nick Lattimer)
   -  Posters?
-    - <mark>Action all:</mark> Let Anders know if you have posters 
+     - <mark>Action all:</mark> Let Anders know if you have posters 
   -  Other HTA-relevant sessions?
-    - <mark>Action all:</mark> Let Anders know if there are other HTA-relevant sessions that we should flæag
+     - <mark>Action all:</mark> Let Anders know if there are other HTA-relevant sessions that we should flæag
 
 ## 5. AOB 
 - EFSPI Statistics Leaders Meeting coming up (12th May) https://www.efspi.org/, we will report back on this at next SIG meeting
