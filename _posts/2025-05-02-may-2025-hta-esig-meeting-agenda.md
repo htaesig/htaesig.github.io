@@ -14,7 +14,7 @@ author: Anders, Lara
 1.	Admin updates (5min)
 2.	Member/subteam/guest driven topic (35min) 
     - SIG leadership model (10min Anders/Arthur/Katrin - see below)
-    - IQWiG methods paper Version 8.0 (15min/Katrine)
+    - IQWiG methods paper Version 8.0 (15min/Christine)
 3.	EU HTA – info sharing and updates (10min)
     - Best practices PICO addressability (Lara/MSD)
 4.	Events and conferences (15min)
