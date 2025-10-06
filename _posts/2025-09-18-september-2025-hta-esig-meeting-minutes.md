@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August 2025 HTA ESIG meeting - minutes 
+title: September 2025 HTA ESIG meeting - minutes 
 categories: [SIG meetings]
 author: Arthur Allignol
 ---
